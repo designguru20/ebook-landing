@@ -1,8 +1,8 @@
 # Ebook Website
 
-Bootstrap website for downloading a free E-book. This website has a light, business-like design.
+Ebook landing page. This website has a simple business-like design.
 
-<img src="./images/screen.png"  />
+<img src="./images/preview.png"  />
 
 ## Features
 
@@ -12,7 +12,6 @@ Bootstrap website for downloading a free E-book. This website has a light, busin
 - Bootstrap modals
 - Form & input styles
 - Testimonials
-- Contact page with Google Map
 
 ## Usage
 
