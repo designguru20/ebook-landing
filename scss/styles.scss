@@ -1,0 +1,54 @@
+.navbar .btn-outline-light:hover {
+    color: var(--bs-dark);
+}
+
+.header, .download {
+    background: url('../images/hero-image-2.jfif') center center no-repeat;
+    background-size: cover;
+}
+
+.navbar {
+    transition: all 0.5s ease-in;
+}
+
+.bg-red {
+    background: #B4060A;
+}
+
+.brand-name-footer {
+    color: #B4060A;
+}
+
+.sticky-navbar {
+    opacity: 0.85;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+     
+}
+
+.modal-dialog {
+    max-width: 1040px;
+}
+
+.rounded-shape {
+    border-radius: 100%;
+    width: 60px;
+}
+
+@media(max-width: 1000px) {
+    .hero .image-container {
+        display: flex;
+        justify-content: center;
+    }
+
+    .hero .text-container {
+        text-align: center;
+    }
+
+    .space {
+        margin-bottom: 30px;
+    }
+
+    .download {
+        text-align: center;
+    }
+}
